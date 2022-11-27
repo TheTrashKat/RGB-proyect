@@ -6,4 +6,4 @@ cualquier
 ## Autores :
 
 * Miguel Angel Gonzalez Gomez
-* Juan David Guevara
+* Juan David Guevara Garcia
