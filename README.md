@@ -11,6 +11,15 @@ Aqui van las dependencian de proyecto
 * Miguel Angel Gonzalez Gomez
 * Juan David Guevara Garcia
 
+
+## Pendientes
+### 26/11/2020:
+[] investigat como desplegar aplicaciones Python
+[] investigar sobre despliegue continuo usando git
+
+
+
+
 ## Releases :
 ### 26/11/2020:
 * Se definio Python como lenguaje del proyecto
