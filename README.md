@@ -2,6 +2,9 @@
 Simulador de batallas Pokemon para Telegram
 cualquier 
 
+## Dependencias del proyecto
+Aqui van las dependencian de proyecto
+
 
 ## Autores :
 
