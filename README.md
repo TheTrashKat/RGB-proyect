@@ -10,3 +10,7 @@ Aqui van las dependencian de proyecto
 
 * Miguel Angel Gonzalez Gomez
 * Juan David Guevara Garcia
+
+## Releases :
+### 26/11/2020:
+* Se creó el repositorio git para el proyecto
