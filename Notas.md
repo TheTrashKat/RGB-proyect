@@ -11,4 +11,5 @@
 * commit -m (Aregar comentario de la actualización)
 * push (Subir al repositorio)
 * pull (Actualizar desde el repositorio)
-* merge origen/
+* merge origin/rama_a_fusionar
+* push origin --delete rama_a_borrar
