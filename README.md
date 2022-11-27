@@ -1,3 +1,9 @@
 # RGB-proyect
 Simulador de batallas Pokemon para Telegram
-cualquier cosa
+cualquier 
+
+
+## Autores :
+
+* Miguel Angel Gonzalez Gomez
+* Juan David Guevara
