@@ -14,8 +14,8 @@ Aqui van las dependencian de proyecto
 
 ## Pendientes
 ### 26/11/2020:
-[] investigat como desplegar aplicaciones Python
-[] investigar sobre despliegue continuo usando git
+* [] investigat como desplegar aplicaciones Python
+* [] investigar sobre despliegue continuo usando git
 
 
 
